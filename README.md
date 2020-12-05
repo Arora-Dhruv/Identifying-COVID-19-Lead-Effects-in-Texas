@@ -6,6 +6,11 @@ University of Washington
 ![Lead effect](https://github.com/Arora-Dhruv/Identifying-COVID-19-Lead-Effects-in-Texas/blob/main/Visualizations/Leadeffect_1.PNG)
 
 ## Abstract
+The COVID-19 pandemic has caused unprecedented public health and economic crises. Texas has surpassed California in recording the highest number of positive coronavirus cases in the U.S as of Nov'20. As part of this analysis, we apply statistical techniques to understand the lead effect of COVID-19 cases in Texas on hospitalization as well as lead effect of hospitalization on ICU patients. The outcome of the analysis can potentially enable Texas department of state and health services to take proactive data driven decisions to regulate and plan for health care resources such as availability of hospital beds and ICU beds in the future. The idea of identifying lead effect is analogous to websites like Redfin where current traffic on Redfin website can lead to more home sales X months later.  
+
+We examine the relationship between three time-series metric - active COVID cases in Texas, active hospitalization count and active ICU patients. We found that increase in active hospitalization count leads to an increase in ICU patients up to 17 days later in Texas. We could not find evidence to establish relationship between active COVID cases and hospitalization count.  
+
+This analysis complements other studies on the subject by using a primarily human-centered approach.
 
 ## Directory Structure
 ```bash
