@@ -1,6 +1,6 @@
 # Identifying COVID-19 Lead Effects in Texas
-Dhruv Arora (dharora@uw.edu)
-University of Washington
+Dhruv Arora (dharora@uw.edu)  
+University of Washington  
 12/05/2020
 
 ## Abstract
