@@ -1,7 +1,9 @@
 # Identifying COVID-19 Lead Effects in Texas
 Dhruv Arora (dharora@uw.edu)  
 University of Washington  
-12/05/2020
+12/05/2020  
+
+![Lead effect](https://github.com/Arora-Dhruv/Identifying-COVID-19-Lead-Effects-in-Texas/blob/main/Visualizations/Leadeffect_1.PNG)
 
 ## Abstract
 
