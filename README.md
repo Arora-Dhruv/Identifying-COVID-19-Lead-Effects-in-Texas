@@ -38,6 +38,9 @@ University of Washington
 <font color='#C24914'>**Outcome of hypothesis test:**</font> We did find evidence to reject the null hypothesis and found that increase in hospitalization lead to increase in ICU patients up to 17 days later.  
 
 ## Final Visualizations
+![P-value plot from Granger Casuality Test to identify lead effect of active COVID cases on hospitalization:](https://github.com/Arora-Dhruv/Identifying-COVID-19-Lead-Effects-in-Texas/blob/main/Visualizations/Granger%20Casuality%20Test-%20Active%20Cases%20on%20hospitalization.png)
+
+![P-value plot from Granger Casuality Test to identify lead effect of hospitalization on ICU Patients:](https://github.com/Arora-Dhruv/Identifying-COVID-19-Lead-Effects-in-Texas/blob/main/Visualizations/Granger%20Casuality%20Test-%20Active%20Hospitalization%20on%20ICU.png)
 
 
 ## Main Requirements
