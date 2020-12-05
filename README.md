@@ -26,16 +26,16 @@ University of Washington
 
 
 ## Conclusion
-<font color='#C24914'>1. Research Question: Is there a statistically significant relationship between COVID positive cases in Texas and rise in hospitalization X days later?</font>  
-Null hypothesis: Increase in positive cases in Texas do not lead to increase in hospitalization X days later.  
-Alternate hypothesis: Increase in positive cases in Texas lead to increase in hospitalization X days later.  
-<font color='#C24914'>Outcome of hypothesis test:</font> We did not find evidence to reject the null hypothesis.  
+<font color='#C24914'>**1. Research Question:** Is there a statistically significant relationship between COVID positive cases in Texas and rise in hospitalization X days later?</font>  
+**Null hypothesis:** Increase in positive cases in Texas do not lead to increase in hospitalization X days later.  
+**Alternate hypothesis:** Increase in positive cases in Texas lead to increase in hospitalization X days later.  
+<font color='#C24914'>**Outcome of hypothesis test:**</font> We did not find evidence to reject the null hypothesis.  
    
    
-<font color='#C24914'>2. Research Question:  Is there a statistically significant relationship between Hospitalization in Texas and rise in ICU patients X days later?</font>    
-Null hypothesis: Increase in positive cases in Texas do not lead to increase in hospitalization X days later.   
-Alternate hypothesis: Increase in hospitalization in Texas lead to increase in Active ICU Count X days later.  
-<font color='#C24914'>Outcome of hypothesis test:</font> We did find evidence to reject the null hypothesis and found that increase in hospitalization lead to increase in ICU patients up to 17 days later.  
+<font color='#C24914'>**2. Research Question:**  Is there a statistically significant relationship between Hospitalization in Texas and rise in ICU patients X days later?</font>    
+**Null hypothesis:** Increase in positive cases in Texas do not lead to increase in hospitalization X days later.   
+**Alternate hypothesis:** Increase in hospitalization in Texas lead to increase in Active ICU Count X days later.  
+<font color='#C24914'>**Outcome of hypothesis test:**</font> We did find evidence to reject the null hypothesis and found that increase in hospitalization lead to increase in ICU patients up to 17 days later.  
 
 ## Final Visualizations
 
