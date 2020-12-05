@@ -5,16 +5,6 @@ University of Washington
 
 ## Abstract
 
-## Repository Structure
-
-## Research questions for this study are:
-<font color='#C24914'>1. Research Question: Is there a statistically significant relationship between COVID positive cases in Texas and rise in hospitalization X days later?</font> 
-
-<font color='#C24914'>2. Research Question:  Is there a statistically significant relationship between Hospitalization in Texas and rise in ICU patients X days later?</font>
-
-
-## Data source
-
 ## Directory Structure
 ```bash
 ├── Visualizations (all visualizations plotted for this analysis)
@@ -25,6 +15,16 @@ University of Washington
 ├── LICENSE
 
 ```
+
+## Research questions for this study are:
+<font color='#C24914'>1. Research Question: Is there a statistically significant relationship between COVID positive cases in Texas and rise in hospitalization X days later?</font> 
+
+<font color='#C24914'>2. Research Question:  Is there a statistically significant relationship between Hospitalization in Texas and rise in ICU patients X days later?</font>
+
+
+## Data source
+
+
 ## Conclusion
 <font color='#C24914'>1. Research Question: Is there a statistically significant relationship between COVID positive cases in Texas and rise in hospitalization X days later?</font>  
 Null hypothesis: Increase in positive cases in Texas do not lead to increase in hospitalization X days later.  
