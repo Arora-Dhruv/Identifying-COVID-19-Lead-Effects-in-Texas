@@ -23,7 +23,10 @@ University of Washington
 
 
 ## Data source
-
+The data is available on [Covidtracking.com](https://covidtracking.com/) which is a volunteer organization launched from The Atlantic and dedicated to collecting and publishing the data required to understand the COVID-19 outbreak in the United States. The site collects the data from all 50 states and their data is being used by national and local news organizations across the US.  
+#### Link to the Dataset: [Here](https://covidtracking.com/data/api)
+#### Link to the Data Defintions: [Here](https://covidtracking.com/about-data/data-definitions)
+#### Terms and Conditions for the Data: [Here](https://covidtracking.com/terms-and-conditions). 
 
 ## Conclusion
 <font color='#C24914'>**1. Research Question:** Is there a statistically significant relationship between COVID positive cases in Texas and rise in hospitalization X days later?</font>  
