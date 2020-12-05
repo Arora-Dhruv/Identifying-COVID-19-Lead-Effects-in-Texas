@@ -17,9 +17,9 @@ University of Washington
 ```
 
 ## Research questions for this study are:
-<font color='#C24914'>1. Research Question: Is there a statistically significant relationship between COVID positive cases in Texas and rise in hospitalization X days later?</font> 
+<font color='#C24914'>**1. Research Question:** Is there a statistically significant relationship between COVID positive cases in Texas and rise in hospitalization X days later?</font> 
 
-<font color='#C24914'>2. Research Question:  Is there a statistically significant relationship between Hospitalization in Texas and rise in ICU patients X days later?</font>
+<font color='#C24914'>**2. Research Question:**  Is there a statistically significant relationship between Hospitalization in Texas and rise in ICU patients X days later?</font>
 
 
 ## Data source
